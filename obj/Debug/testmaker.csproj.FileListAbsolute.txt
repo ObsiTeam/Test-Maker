@@ -1,0 +1,12 @@
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.csprojAssemblyReference.cache
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.Create.resources
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.Form0.resources
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.Form1.resources
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.Properties.Resources.resources
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.csproj.GenerateResource.cache
+C:\Users\masonrapa\source\repos\testmaker\testmaker\bin\Debug\testmaker.exe.config
+C:\Users\masonrapa\source\repos\testmaker\testmaker\bin\Debug\testmaker.exe
+C:\Users\masonrapa\source\repos\testmaker\testmaker\bin\Debug\testmaker.pdb
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.exe
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.pdb
+C:\Users\masonrapa\source\repos\testmaker\testmaker\obj\Debug\testmaker.Making.resources
